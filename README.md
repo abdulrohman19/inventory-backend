@@ -51,6 +51,7 @@ npm install
 ### 4. Setup .env
 Buat file .env di root dan isi:
 DATABASE_URL="postgresql://user:password@localhost:5432/inventory"
+
 PORT=5001
 
 ### 5. Run App
